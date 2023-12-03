@@ -1,2 +1,2 @@
 # Food_Delivery
-Food Delivery work by React Native
+Food Delivery mobile app worked by React Native
